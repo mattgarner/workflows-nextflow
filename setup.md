@@ -126,13 +126,6 @@ nextflow info
 ~~~
 {: .language-bash}
 
-Check the correct installation running the following command:
-
-~~~
-nextflow info
-~~~
-{: .language-bash}
-
 ## nf-core/tools installation without conda
 
 ### Pip
